@@ -1,7 +1,10 @@
 {
   "feed": [
     {"name":"BeinSport 1 HD","url":"http://msh.koooragoal.com/channels/Bein-Sport1.html"},
-    {"name":"BeinSport 2 HD","url":"http://sweetiptv.com/live/BEIN-2.php"},
-    {"name":"BeinSport 3 HD","url":"http://sweetiptv.com/live/BEIN-3.php"}
+    {"name":"BeinSport 2 HD","url":"http://msh.koooragoal.com/channels/Bein-Sport2.html"},
+    {"name":"BeinSport 2 HD 2","url":"http://sweetiptv.com/live/BEIN-2.php"},
+    {"name":"BeinSport 3 HD","url":"http://sweetiptv.com/live/BEIN-3.php"},
+    {"name":"BeinSport Max 1","url":"http://kora-online.tv/channels/num/2/bein-max-1.html"},
+    {"name":"BeinSport Max 2","url":"https://aflam4you.tv/beinsports-max-1-live_179.html"}
   ] 
 }
